@@ -422,7 +422,7 @@ a.readmore_bt {
   transform: skew(-30deg);
 }
 .logo {
-  float: left;
+  float: right;
 }
 nav.main-menu {
   float: right;
